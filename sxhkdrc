@@ -1,0 +1,17 @@
+# Reload functions
+super + Escape
+	"$XDG_CONFIG_HOME"/sxhkd/functions
+
+# Brave browser
+super + w
+	brave
+
+# Slock X window screenlocker
+super + x
+	slock
+
+# Screenshot screen
+super + s
+	maim ~/Screenshots/screenshot.png
+
+
